@@ -1,0 +1,8 @@
+venv/
+venv311/
+venv_new/
+__pycache__/
+*.pkl
+fotos/MSLwords1/
+*.zip
+.python-version

@@ -1,0 +1,7 @@
+README
+En este proyecto, hay 2 maquinas virtuales para correr el modelo Mediapipe y otros mas pesados del proyecto:
+venv(python 3.14)
+venv(python 3.11)
+
+Para activar el entorno virtual: "source "La maquina virtual a activar"/bin/activate" dentro de la carpeta del proyecto
+Para desactivar: "deactivate"
